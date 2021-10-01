@@ -19,21 +19,34 @@ The district metric was 79.0 and now is 78.9 in the Average Math Score.
 ![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/a1-district_summary-firstreport.PNG)
 
 The school summary metric shows Thomas High School's Average Math Score decreased to 83.35 versus the peviously reported 83.42  However, the Average Reading Scores became increaed slightly to 83.90 versus the previously reported 83.85.
-Updated school summary:
+
 ![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/b2-school_summary_updatedreport.PNG)
 
 Previously reported school summary:
 ![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/b1-school_summary_firstreport.PNG)
 
 Thomas High School's rank remains unchanged at second highest in percent students passing math and reading.
+![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/c1-top_five_schools_firstreport.PNG)
 
 
-How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
-Scores by school spending
-Scores by school size
+![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/math_scores_by_grade_comparison.PNG)
+
+
+![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/reading_scores_by_grade_comparison.PNG)
+
+
+Scores by school spending results remain unchanged
+![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/g2-schools_by_spending-updatedreport.PNG)
+
+
+Scores by school size results remain unchanged
+![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/i2-schools_by_size-updatedreport.PNG)
+
 Scores by school type
+![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/h2-schools_by_type-updatedreport.PNG)
+
 Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
 
 
