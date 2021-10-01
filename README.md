@@ -51,8 +51,8 @@ Seven school district metrics shown below were reported previously, but it was d
 * Scores by school type also remain unchanged
 ![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/h2-schools_by_type-updatedreport.PNG)
 
-## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-While the school rankings and the scores by school metrics didn't change, the overall District metric and School Summary metric for Thomas High School were negatively impacted.  The District Summary metric for Average Math Score dropped 0.1 points, and the Percent Passing Math was reduced by 0.2%.  The Percent of Students Passing Reading also decreased by 0.1%.  Lastly, the Percent Overall Passing reduced by 0.3% for the District Summary metric.
+## Summary: Summarize four changes in the 
+While the school rankings and the scores by school metrics didn't change, the overall District metric and School Summary metric for Thomas High School were negatively impacted by replacing reading and math scores for the ninth grade at Thomas High School with NaNs.  The District Summary metric for Average Math Score dropped 0.1 points, and the Percent Passing Math was reduced by 0.2%.  The Percent of Students Passing Reading also decreased by 0.1%.  Lastly, the Percent Overall Passing reduced by 0.3% for the District Summary metric.
 
-The School Summary metric shows that while Thomas High School's Average Math Score decreased .07 points and Average Reading Scores increased .05 points the Percent Passing Reading and Math both decreased.
+The School Summary metric shows that while Thomas High School's Average Math Score decreased .07 points and Average Reading Scores increased .05 points, the Percent Passing Reading and Math both decreased.
 
