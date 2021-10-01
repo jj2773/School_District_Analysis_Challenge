@@ -12,7 +12,7 @@ Seven school district metrics shown below were reported previously, but it was d
 
 ## Analysis
 ### The District Summary
-* The district metric was 79.0 and now is 78.9 in the Average Math Score.
+* The district summary metric for Average Math Score dropped 0.1 points.  It was 79.0 and now is 78.9 in the Average Math Score.
 
 ![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/a2-district_summary-updatedreport.PNG)
 
@@ -35,10 +35,10 @@ Seven school district metrics shown below were reported previously, but it was d
 ![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/d2-bottom_five_schools_updatedreport.PNG)
 
 ### The Average Math Score by Grade from each school
-Math scores by grade only changed for Thomas High School, and the grades show as NaN to be excluded from calculations
+* Math scores by grade only changed for Thomas High School, and the grades show as NaN to be excluded from calculations
 ![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/math_scores_by_grade_comparison.PNG)
 
-### The Average Math Score by Grade from each school
+### The Average Reading Score by Grade from each school
 * Reading scores by grade only changed for Thomas High School, and the grades show as NaN to be excluded from calculations
 ![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/reading_scores_by_grade_comparison.PNG)
 
@@ -46,12 +46,12 @@ Math scores by grade only changed for Thomas High School, and the grades show as
 ### The Scores by School: spending per student, by school size, and by school type
 ![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/g2-schools_by_spending-updatedreport.PNG)
 
-Scores by school size results remain unchanged
+* Scores by school size results remain unchanged
 ![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/i2-schools_by_size-updatedreport.PNG)
 
-Scores by school type
+* Scores by school type also remain unchanged
 ![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/h2-schools_by_type-updatedreport.PNG)
 
 ## Summary: Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-Overall district scores.
+The district summary metric for Average Math Score dropped 0.1 points by removing 9th grade students from Thomas High School's reading and math scores.  The school summary metric shows that Thomas High School's Average Math Score decreased .07 points to 83.35, however the Average Reading Scores increased .05 points to 83.90.
 
