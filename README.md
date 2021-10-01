@@ -26,7 +26,7 @@ Previously reported school summary:
 ![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/b1-school_summary_firstreport.PNG)
 
 Thomas High School's rank remains unchanged at second highest in percent students passing math and reading.
-![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/c1-top_five_schools_firstreport.PNG)
+![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/report_images/c2-top_five_schools_updatedreport.PNG)
 
 
 How does replacing the ninth-grade scores affect the following:
