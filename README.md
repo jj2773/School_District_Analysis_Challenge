@@ -14,9 +14,18 @@ Seven school district metrics shown below were reported previously, but it was d
 Results: Using bulleted lists and images of DataFrames as support, address the following questions.
 
 How is the district summary affected?
+![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/a2-district_summary-updatedreport.PNG)
 
+![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/a1-district_summary-firstreport.PNG)
 
 How is the school summary affected?
+Updated school summary:
+![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/b2-school_summary_updatedreport.PNG)
+
+Previously reported school summary:
+![alt text](https://github.com/jj2773/School_District_Analysis_Challenge/blob/main/b1-school_summary_firstreport.PNG)
+
+
 How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 How does replacing the ninth-grade scores affect the following:
 Math and reading scores by grade
